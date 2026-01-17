@@ -1,5 +1,5 @@
 {
-  "name": "basvr",
+  "name": "dasitag",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "AGPL-3.0-only",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "node-fetch": "^3.3.2"
+  }
 }
