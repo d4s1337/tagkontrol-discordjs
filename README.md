@@ -466,21 +466,4 @@ Bu proje **AGPL-3.0-only** lisansı altında lisanslanmıştır.
 
 ---
 
-## Destek ve İletişim
-
-- **GitHub Issues:** [Sorun Bildirin](https://github.com/d4s1337/tagkontrol-discordjs/issues)
-- **Geliştirici:** d4s1337
-
----
-
-## Katkıda Bulunma
-
-Pull request'ler kabul edilir! Büyük değişiklikler için lütfen önce bir issue açarak neyi değiştirmek istediğinizi tartışın.
-
----
-
-**Not:** Bu bot, Discord'un güncel API özelliklerini kullanır. Discord'un `identity_guild_id` özelliğini desteklediğinden emin olun.
-
----
-
-*Son Güncelleme: Ocak 2026*
+döküman ai a yaptırıldı sorular için vs  discord  @d4s 837817581507313724
