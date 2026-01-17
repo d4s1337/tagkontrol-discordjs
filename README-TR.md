@@ -483,4 +483,4 @@ Pull request'ler kabul edilir! Büyük değişiklikler için lütfen önce bir i
 
 ---
 
-*Son Güncelleme: 2026*
+*Son Güncelleme: Ocak 2026*
